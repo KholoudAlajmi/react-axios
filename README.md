@@ -48,3 +48,4 @@ export default instance;
 | Create a pet   | `POST`   | `https://pets-react-query-backend.eapi.joincoded.com/pets`       | `name`, `image`, `type`, `adopted` |
 | Delete a pet   | `DELETE` | `https://pets-react-query-backend.eapi.joincoded.com/pets/${id}` |                                    |
 # react-axios
+# react-axios
